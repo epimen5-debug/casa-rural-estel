@@ -47,7 +47,7 @@ export default function Navbar() {
             className="flex items-center gap-3 group"
           >
             <img
-              src="/client/public/Logo.png"
+              src="/Logo.png"
               alt="Casa Rural Estel"
               className="h-10 w-10 object-contain"
             />
