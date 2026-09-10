@@ -33,7 +33,7 @@ const imagenes = [
     span: "col-span-1 row-span-1",
   },
   {
-    src: "https://files.manuscdn.com/user_upload_by_module/session_file/310519663370219074/zaArJnonefFbqtwG.jpg",
+    src: "/images/galeria-vistas.jpg",
     alt: "Vistas de la Sierra de Espadan desde Eslida",
     span: "col-span-1 row-span-1",
   },
