@@ -28,7 +28,7 @@ const imagenes = [
     span: "col-span-2 row-span-1",
   },
   {
-    src: "https://files.manuscdn.com/user_upload_by_module/session_file/310519663370219074/aUZfpAScSoFAUlTL.jpg",
+    src: "/images/galeria-bosque.jpg",
     alt: "Bosques de alcornoques - Naturaleza de Eslida",
     span: "col-span-1 row-span-1",
   },
