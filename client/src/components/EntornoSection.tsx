@@ -17,7 +17,7 @@ const actividades = [
     titulo: "Gastronomía y productos locales",
     descripcion:
       "Eslida es famosa por su miel artesanal, sus embutidos caseros y su aceite de oliva. Los mercados locales y los restaurantes del pueblo ofrecen una experiencia gastronómica auténtica con ingredientes de la tierra.",
-    imagen: "https://d2xsxph8kpxj0f.cloudfront.net/310519663370219074/4VAGyLcLSaZt5XTLeBLk7H/carajillo_generico_068a46c0.jpg",
+    imagen: "/images/entorno-gastronomia.jpg",
     etiqueta: "Gastronomía",
   },
 ];
