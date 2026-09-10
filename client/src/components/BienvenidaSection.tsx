@@ -102,7 +102,7 @@ export default function BienvenidaSection() {
               </div>
               <div className="overflow-hidden mt-4">
                 <img
-                  src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663370219074/wHUBGStLKFiGtkpe.jpg"
+                  src="/images/bienvenida-barbacoa.jpg"
                   alt="Barbacoa exterior"
                   className="w-full h-44 object-cover hover:scale-105 transition-transform duration-700"
                 />
