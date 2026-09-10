@@ -8,7 +8,7 @@ import { X, ZoomIn } from "lucide-react";
 
 const imagenes = [
   {
-    src: "https://files.manuscdn.com/user_upload_by_module/session_file/310519663370219074/ChgOkgKDmbkdjyQn.jpg",
+    src: "/images/galeria-iglesia-1.jpg",
     alt: "Iglesia del Salvador de Eslida - Patrimonio historico",
     span: "col-span-2 row-span-2",
   },
