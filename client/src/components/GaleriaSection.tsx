@@ -18,12 +18,12 @@ const imagenes = [
     span: "col-span-1 row-span-1",
   },
   {
-    src: "https://files.manuscdn.com/user_upload_by_module/session_file/310519663370219074/gagBMRIUQNnfDbKh.jpg",
+    src: "/images/galeria-pueblo.jpg",
     alt: "Pueblo de Eslida - Vistas panoramicas",
     span: "col-span-1 row-span-1",
   },
   {
-    src: "https://files.manuscdn.com/user_upload_by_module/session_file/310519663370219074/EKapvSgIMIabvEZx.jpg",
+    src: "/images/galeria-sierra.jpg",
     alt: "Sierra de Espadan - Parque Natural",
     span: "col-span-2 row-span-1",
   },
