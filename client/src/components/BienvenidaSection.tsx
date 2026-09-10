@@ -95,7 +95,7 @@ export default function BienvenidaSection() {
               </div>
               <div className="overflow-hidden -mt-4">
                 <img
-                  src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663370219074/ZbEWXyplWVzSaiRm.jpg"
+                  src="/images/bienvenida-naturaleza.jpg"
                   alt="Naturaleza Sierra Espadán"
                   className="w-full h-44 object-cover hover:scale-105 transition-transform duration-700"
                 />
