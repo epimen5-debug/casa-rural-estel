@@ -81,7 +81,7 @@ export default function BienvenidaSection() {
             <div className="grid grid-cols-2 gap-4 relative z-10">
               <div className="overflow-hidden">
                 <img
-                  src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663370219074/GGHpDxpIooACThjP.jpg"
+                  src="/images/bienvenida-exterior.jpg"
                   alt="Casa rural exterior"
                   className="w-full h-56 object-cover hover:scale-105 transition-transform duration-700"
                 />
