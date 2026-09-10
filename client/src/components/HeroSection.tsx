@@ -33,7 +33,7 @@ export default function HeroSection() {
         style={{ transform: `translateY(${scrollY * 0.4}px) scale(1.1)` }}
       >
         <img
-          src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663370219074/cSplWxrsiExJPHUs.png"
+          src="/images/hero-portada.jpg"
           alt="Casa Rural Estel - Eslida, Sierra de Espadán"
           className="w-full h-full object-cover"
         />
