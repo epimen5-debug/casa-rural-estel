@@ -88,7 +88,7 @@ export default function BienvenidaSection() {
               </div>
               <div className="overflow-hidden mt-8">
                 <img
-                  src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663370219074/QtJYuaUEZUzEzxlI.jpg"
+                  src="/images/bienvenida-exterior.jpg"
                   alt="Interior acogedor"
                   className="w-full h-56 object-cover hover:scale-105 transition-transform duration-700"
                 />
