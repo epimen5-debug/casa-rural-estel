@@ -10,7 +10,7 @@ const actividades = [
     titulo: "Senderismo por la Sierra",
     descripcion:
       "El Parque Natural Sierra de Espadán ofrece una red de senderos para todos los niveles. Desde rutas familiares hasta travesías de varios días. La Ruta de las Fuentes, que parte desde Eslida, es especialmente recomendada.",
-    imagen: "https://files.manuscdn.com/user_upload_by_module/session_file/310519663370219074/rGaaBhGvGWglFasT.jpg",
+   imagen: "/images/entorno-senderismo.jpg",
     etiqueta: "Naturaleza",
   },
   {
