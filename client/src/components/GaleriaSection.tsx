@@ -13,7 +13,7 @@ const imagenes = [
     span: "col-span-2 row-span-2",
   },
   {
-    src: "https://files.manuscdn.com/user_upload_by_module/session_file/310519663370219074/iWDWwprcXFyfYEaR.jpg",
+  src: "/images/galeria-iglesia-2.jpg",
     alt: "Iglesia del Salvador - Detalle arquitectonico",
     span: "col-span-1 row-span-1",
   },
